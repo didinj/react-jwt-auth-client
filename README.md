@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Read full articles]()
+[Read full articles](https://www.djamware.com/post/682b19cba28dce49720a319c/integrating-jwt-authentication-with-spring-boot-and-react)
 
 ## Available Scripts
 
